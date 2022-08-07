@@ -1,0 +1,14 @@
+Windows 10 Activation
+----------------------------------------
+emd.exe ( Run As Administrator)
+----------------------------------------
+                Commands
+                
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms8.msguides.com
+slmgr /ato
+
+----------------------------------------
+         Windows Keys (Origninal)
+
+      6G89F-HC3RW-BXQKK-DDVTF-RKB3C

@@ -18,7 +18,14 @@ _______________________________________
 
             Office Activation
 ----------------------------------------
-cmd.exe ( Run As Administrator )
+              METHOD 1
+
+Download Version from - https://tb.rg-adguard.net/public.php
+Open Windows POWER-SHELL and type - irm https://massgrave.dev/get | iex
+[Follow On Screen Instructions]
+
+----------------------------------------
+cmd.exe ( Run As Administrator ) METHOD 2
 ----------------------------------------
 
 cd /d %ProgramFiles%\Microsoft Office\Office16
@@ -34,4 +41,6 @@ cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH
 cscript ospp.vbs /sethst:s8.uk.to
 
 cscript ospp.vbs /act
+
+
 
